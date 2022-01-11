@@ -23,9 +23,9 @@ body {
 }
 
 .button {
-  background-color: #2b6da0
+  background-color: green;
   border: none;
-  color: white;
+  color: #2b6da0;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
